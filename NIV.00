@@ -1,0 +1,50 @@
+pared 00,00
+pared 01,00
+pared 02,00
+pared 03,00
+pared 04,00
+pared 05,00
+
+pared 05,00
+pared 05,01
+pared 05,02
+pared 05,03
+pared 05,04
+pared 05,05
+
+pared 01,05
+pared 02,05
+pared 03,05
+pared 04,05
+pared 05,05
+
+pared 00,01
+pared 00,02
+pared 00,03
+pared 00,04
+pared 00,05
+
+suelo 01,01
+suelo 01,02
+suelo 01,03
+suelo 01,04
+
+suelo 02,01
+suelo 02,02
+suelo 02,03
+suelo 02,04
+
+suelo 03,01
+suelo 03,02
+suelo 03,03
+suelo 03,04
+
+suelo 04,01
+suelo 04,02
+suelo 04,03
+suelo 04,04
+objetivo 02,02
+
+caja 02,03
+
+jugador 01,01
