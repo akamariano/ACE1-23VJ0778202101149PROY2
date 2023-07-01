@@ -1227,7 +1227,7 @@ GetTime:
         jmp PrintNewHour
     UpdateHrs:
         mov mins,00h
-        inc hrs     ; ya mucho engase si esto se pasa de 24 xd
+        inc hrs     
     PrintNewHour:
         mov AL,secs
         cbw
